@@ -89,7 +89,10 @@ body {
   font-family: var(--ff-body);
   font-weight: var(--fw-body);
   font-size: var(--fs-body);
-  background-color: var(--clr-bg-body);
+  background: var(--clr-bg-body);
+  background-image: url(images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
   display: grid;
   place-items: center;
   min-height: 100vh;
@@ -228,6 +231,11 @@ p[data-max-width] {
 /* Small screen widths */
 
 @media (max-width: 650px) {
+  .body {
+    background-image: url(images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
   .spacer-small {
     margin-top: var(--size-100);
   }
