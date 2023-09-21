@@ -15,4 +15,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - Github: https://github.com/coderSeth13?tab=repositories
 
 ### Screenshot
-![Screenshot 2023-09-21 at 16-40-32 Order summary card](https://github.com/coderSeth13/FEM_ORDER_SUMMARY_COMPONENT/assets/145410639/087e5d2c-02da-4df6-bb85-c6320d225d71)
+![Screenshot 2023-09-21 at 20-34-39 Order summary card](https://github.com/coderSeth13/FEM_ORDER_SUMMARY_COMPONENT/assets/145410639/1b16248d-be71-4fc4-85e1-b11ec8bdf887)
+
