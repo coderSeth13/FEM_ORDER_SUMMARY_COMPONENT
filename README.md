@@ -7,7 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 #### Project links
 
 - Solution URL: https://github.com/coderSeth13/FEM_ORDER_SUMMARY_COMPONENT.git
-- Live Site URL:
+- Live Site URL: https://coderseth13.github.io/FEM_ORDER_SUMMARY_COMPONENT/
 
 #### Social links
 
